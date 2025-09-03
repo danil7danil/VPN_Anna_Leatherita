@@ -1,1 +1,1 @@
-vless://0a22df1e-1d15-449d-aa46-c73696a88ebb@s2.goodstream.pro:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=s2.goodstream.pro&fp=chrome&security=reality&pbk=QHkXBS2ENHV0khgY9VBYi8_9bpfqnUYDcfQN4cW5Qg0&sid=4326#%F0%9F%94%92%20Anna_Leatherita
+vless://40a409c1-7b8c-4e72-b934-9d6cbe384787@bridge.greenvpnbot.com:9013/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=apple.com&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#%F0%9F%94%92%20Anna_Leatherita
